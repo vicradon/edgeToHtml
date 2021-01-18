@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A script that renames .edge files to .html",
   "main": "index.js",
+  "bin": "./index.js",
   "scripts": {
     "forward": "node index forward",
     "reverse": "node index reverse",

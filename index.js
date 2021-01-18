@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const fs = require("fs");
 const glob = require("glob");
 const args = process.argv.slice(2);
